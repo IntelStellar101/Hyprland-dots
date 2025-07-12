@@ -8,13 +8,13 @@ Here you can find my configs to my current Hyprland rice! \
 <b>Cursor:</b> Bibata \
 <b>GTK theme:</b> Nordic \
 <b>Bar:</b> Hyprbar \
-<b>Lock screen:</b> Hyprlock \
+<b>Lock screen:</b> Hyprlock
 
-# Keybinds \
+# Keybinds
 \
 <b>Open Wofi:</b> SUPER + Space \
 <b>Close window:</b> SUPER + Q \
 <b>Lock screen:</b> SUPER + L \
-Those are all the ones I think I've changed. \
+Those are all the ones I think I've changed.
 
 Hope you like my rice!

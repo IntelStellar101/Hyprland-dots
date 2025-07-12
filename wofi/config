@@ -1,0 +1,6 @@
+
+# Wofi config file
+
+allow-images = true
+prompt = Search...
+insensitive = true
